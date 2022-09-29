@@ -1,0 +1,24 @@
+body{
+    /* background-repeat : 반복조절 */
+    background-image: url('https://ifh.cc/g/o6dYc0.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+  /*   background-position: top; */
+  }
+
+
+  .control {
+    text-align: center;
+    color: white;
+    line-height: 15cm;
+    font-size:250%;
+    font-weight:bolder;
+  }
+
+  .control2 {
+    text-align: center;
+    color: white;
+    line-height: 0cm;
+    font-size:250%;
+    font-weight:bolder;
+  }
